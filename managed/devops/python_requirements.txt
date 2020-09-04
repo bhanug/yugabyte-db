@@ -44,7 +44,7 @@ pycodestyle>=2.2.0
 pycrypto
 python-dateutil==2.5.3
 python-dotenv==0.6.4
-PyYAML==3.13
+PyYAML==5.1
 s3cmd==2.0.2
 setuptools>=11.333
 six==1.10.0
